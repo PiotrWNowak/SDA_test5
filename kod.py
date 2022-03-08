@@ -1,2 +1,2 @@
 print("witam")
-print("bardzo")
+print("bardzo serdeczenie")
