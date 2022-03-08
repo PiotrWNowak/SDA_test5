@@ -1,0 +1,2 @@
+print("witam")
+print("bardzo")
